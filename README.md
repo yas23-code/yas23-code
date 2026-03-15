@@ -1,4 +1,4 @@
-## Hi there 👋 i am yash
+## Hi there 👋 
 
 <!--
 **yas23-code/yas23-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
